@@ -20,14 +20,14 @@ const ResumeSection = () => {
           <LocationIcon /> Guillemot Administration et Logistique
         </ResumeInformation>
         <ResumeInformation className="flex items-center gap-2">
-          <ClockIcon /> Octobre 2021 - Aujourd'hui
+          <ClockIcon /> Octobre 2021 - Aujourd&apos;hui
         </ResumeInformation>
         <ResumeDescription>
           <span className="pt-1">
             <NotesIcon />
           </span>
           Avec une expertise technique et une bonne relation clientèle, je
-          travaille au sein de Guillemot Corporation afin d'assurer le service
+          travaille au sein de Guillemot Corporation afin d&apos;assurer le service
           client par mail et téléphone en français et anglais pour les marques
           Thrustmaster et Hercules.
         </ResumeDescription>
@@ -35,8 +35,8 @@ const ResumeSection = () => {
           <span className="pt-1">
             <PencilIcon />
           </span>
-          Par la même occasion, j'ai continué de pratiquer le développement en
-          me concentrant sur les technologies du Web. J'ai notamment découvert
+          Par la même occasion, j&apos;ai continué de pratiquer le développement en
+          me concentrant sur les technologies du Web. J&apos;ai notamment découvert
           la librairie React avec NextJS.
         </ResumeDescription>
         <div className="inline-flex gap-2">
@@ -59,7 +59,7 @@ const ResumeSection = () => {
           <span className="pt-1">
             <NotesIcon />
           </span>
-          Plongé dans l'informatique, j'ai d'abord cherché à améliorer mes
+          Plongé dans l&apos;informatique, j&apos;ai d&apos;abord cherché à améliorer mes
           compétences dans la partie hardware, et à acquérier des compétences
           solides dans la relation clientèle.
         </ResumeDescription>
@@ -67,8 +67,8 @@ const ResumeSection = () => {
           <span className="pt-1">
             <PencilIcon />
           </span>
-          J'approfondi en parallèle mes compétences en développement Web. Je
-          développe par exemple un site web interne, permettant d'avoir un suivi
+          J&apos;approfondi en parallèle mes compétences en développement Web. Je
+          développe par exemple un site web interne, permettant d&apos;avoir un suivi
           sur les bons de commande client.
         </ResumeDescription>
         <div className="inline-flex gap-2">
@@ -92,9 +92,9 @@ const ResumeSection = () => {
           <span className="pt-1">
             <NotesIcon />
           </span>
-          Dans le cadre de ma formation, on m'a offert l'opportunité de mettre
-          en pratique mes compétences au cours d'un stage à l'ENSA, l'Ecole
-          Nationale Supérieure d'Architecture de Nantes. J'y ai réalisé une
+          Dans le cadre de ma formation, on m&apos;a offert l&apos;opportunité de mettre
+          en pratique mes compétences au cours d&apos;un stage à l&apos;ENSA, l&apos;Ecole
+          Nationale Supérieure d&apos;Architecture de Nantes. J&apos;y ai réalisé une
           application de prêt de matériel à destination des étudiants.
         </ResumeDescription>
         <div className="inline-flex gap-2">
@@ -114,8 +114,8 @@ const ResumeSection = () => {
           <span className="pt-1">
             <NotesIcon />
           </span>
-          2 années de formation au sein de l'IUT du Havre qui m'ont permis
-          d'acquérir toutes les compétences de bases afin de travailler dans le
+          2 années de formation au sein de l&apos;IUT du Havre qui m&apos;ont permis
+          d&apos;acquérir toutes les compétences de bases afin de travailler dans le
           développement informatique.
         </ResumeDescription>
         <div className="inline-flex gap-2">
