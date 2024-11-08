@@ -19,7 +19,7 @@ const AboutSection = () => {
         <Paragraph className="leading-relaxed text-justify">
           Je suis un développeur en apprentissage. Diplômé d&apos;un DUT
           Informatique à l&apos;IUT du Havre, j&apos;y ai appris les bases du
-          développement avec différents langages comme <Badge>JAVA</Badge>,{" "}
+          développement avec différents langages tels que <Badge>JAVA</Badge>,{" "}
           <Badge>C</Badge> ou encore le <Badge>SQL</Badge> et{" "}
           <Badge title="HTML, CSS et Javascript">
             les différents langages du Web

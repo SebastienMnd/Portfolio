@@ -14,7 +14,7 @@ const ProjectsSection = () => {
         <ProjectBox>
           <ProjectImage src="/pokemon.webp" alt="Projet à créer" />
           <ProjectContent title="Portfolio" badges={["React", "NextJS"]}>
-            Réalisation de mon portfolio avec une brève présentation, mon
+            La réalisation de mon portfolio avec une brève présentation, mon
             parcours et un espace pour me contacter.
           </ProjectContent>
         </ProjectBox>

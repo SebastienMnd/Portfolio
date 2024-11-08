@@ -26,18 +26,18 @@ const ResumeSection = () => {
           <span className="pt-1">
             <NotesIcon />
           </span>
-          Avec une expertise technique et une bonne relation clientèle, je
-          travaille au sein de Guillemot Corporation afin d&apos;assurer le service
-          client par mail et téléphone en français et anglais pour les marques
-          Thrustmaster et Hercules.
+          Avec une expertise technique et une bonne relation clientèle, j'ai
+          rejoins la socitété Guillemot Corporation d&apos;assurer le service
+          clientèle par mail et téléphone en français et anglais pour les
+          marques Thrustmaster et Hercules.
         </ResumeDescription>
         <ResumeDescription>
           <span className="pt-1">
             <PencilIcon />
           </span>
-          Par la même occasion, j&apos;ai continué de pratiquer le développement en
-          me concentrant sur les technologies du Web. J&apos;ai notamment découvert
-          la librairie React avec NextJS.
+          Dans le même temps, j&apos;ai continué de pratiquer le développement
+          en me concentrant sur les technologies du Web. J&apos;ai notamment
+          découvert la librairie React avec NextJS.
         </ResumeDescription>
         <div className="inline-flex gap-2">
           <Badge>Relation clientèle</Badge>
@@ -59,17 +59,16 @@ const ResumeSection = () => {
           <span className="pt-1">
             <NotesIcon />
           </span>
-          Plongé dans l&apos;informatique, j&apos;ai d&apos;abord cherché à améliorer mes
-          compétences dans la partie hardware, et à acquérier des compétences
-          solides dans la relation clientèle.
+          Cette expérience m'a permis de développer mes connaissances au niveau
+          hardware, tout en développant mes compétences en relation clientèle.
         </ResumeDescription>
         <ResumeDescription>
           <span className="pt-1">
             <PencilIcon />
           </span>
-          J&apos;approfondi en parallèle mes compétences en développement Web. Je
-          développe par exemple un site web interne, permettant d&apos;avoir un suivi
-          sur les bons de commande client.
+          J'ai profité de mes connaissances en développement web afin de créer
+          un site interne permettant d'avoir un suivi sur les bons de commande
+          client.
         </ResumeDescription>
         <div className="inline-flex gap-2">
           <Badge>Vente</Badge>
@@ -92,10 +91,11 @@ const ResumeSection = () => {
           <span className="pt-1">
             <NotesIcon />
           </span>
-          Dans le cadre de ma formation, on m&apos;a offert l&apos;opportunité de mettre
-          en pratique mes compétences au cours d&apos;un stage à l&apos;ENSA, l&apos;Ecole
-          Nationale Supérieure d&apos;Architecture de Nantes. J&apos;y ai réalisé une
-          application de prêt de matériel à destination des étudiants.
+          Dans le cadre de ma formation, on m&apos;a offert l&apos;opportunité
+          de mettre en pratique mes compétences au cours d&apos;un stage à
+          l&apos;ENSA, l&apos;Ecole Nationale Supérieure d&apos;Architecture de
+          Nantes. J&apos;y ai réalisé une application de prêt de matériel à
+          destination des étudiants.
         </ResumeDescription>
         <div className="inline-flex gap-2">
           <Badge>NodeJS</Badge>
@@ -114,9 +114,9 @@ const ResumeSection = () => {
           <span className="pt-1">
             <NotesIcon />
           </span>
-          2 années de formation au sein de l&apos;IUT du Havre qui m&apos;ont permis
-          d&apos;acquérir toutes les compétences de bases afin de travailler dans le
-          développement informatique.
+          2 années de formation au sein de l&apos;IUT du Havre qui m&apos;ont
+          permis d&apos;acquérir toutes les compétences de bases afin de
+          travailler dans le développement informatique.
         </ResumeDescription>
         <div className="inline-flex gap-2">
           <Badge>HTML</Badge>
