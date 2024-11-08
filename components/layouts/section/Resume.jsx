@@ -26,7 +26,7 @@ const ResumeSection = () => {
           <span className="pt-1">
             <NotesIcon />
           </span>
-          Avec une expertise technique et une bonne relation clientèle, j'ai
+          Avec une expertise technique et une bonne relation clientèle, j&apos;ai
           rejoins la socitété Guillemot Corporation d&apos;assurer le service
           clientèle par mail et téléphone en français et anglais pour les
           marques Thrustmaster et Hercules.
@@ -59,15 +59,15 @@ const ResumeSection = () => {
           <span className="pt-1">
             <NotesIcon />
           </span>
-          Cette expérience m'a permis de développer mes connaissances au niveau
+          Cette expérience m&apos;a permis de développer mes connaissances au niveau
           hardware, tout en développant mes compétences en relation clientèle.
         </ResumeDescription>
         <ResumeDescription>
           <span className="pt-1">
             <PencilIcon />
           </span>
-          J'ai profité de mes connaissances en développement web afin de créer
-          un site interne permettant d'avoir un suivi sur les bons de commande
+          J&apos;ai profité de mes connaissances en développement web afin de créer
+          un site interne permettant d&apos;avoir un suivi sur les bons de commande
           client.
         </ResumeDescription>
         <div className="inline-flex gap-2">
