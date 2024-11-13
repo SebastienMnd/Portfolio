@@ -4,6 +4,11 @@ import Footer from "@/components/layouts/Footer";
 import { Container } from "@/components/ui/Container";
 import { ToastProvider } from "@/components/hooks/useToast";
 
+export const meta = {
+  title: "@SébastienMnd - Portfolio",
+  description: "@SébastienMnd - Portfolio",
+};
+
 export default function RootLayout({ children }) {
   return (
     <html lang="fr">
