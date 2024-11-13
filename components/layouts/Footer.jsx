@@ -17,7 +17,7 @@ const Footer = () => {
         Une question sur mes projets, mon parcours ou mes disponibilités,
         contactez moi directement.
       </Paragraph>
-      <form
+      {/* <form
         action={ async (formData) => {
           await SendEmail(formData);
           toast("Message envoyé");
@@ -39,7 +39,7 @@ const Footer = () => {
           placeholder="Message"
           className="resize-none px-4 py-2 row-span-3 min-h-[200px]"
         ></textarea>
-      </form>
+      </form> */}
       <Link
         href="mailto:sebastien.mande@outlook.fr"
         className={`${PRIMARY_FONT.className} text-2xl hover:text-neutral-700 transition`}
