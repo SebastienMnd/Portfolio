@@ -26,10 +26,10 @@ const ResumeSection = () => {
           <span className="pt-1">
             <NotesIcon />
           </span>
-          Avec une expertise technique et une bonne relation clientèle, j&apos;ai
-          rejoins la socitété Guillemot Corporation d&apos;assurer le service
-          clientèle par mail et téléphone en français et anglais pour les
-          marques Thrustmaster et Hercules.
+          Avec une expertise technique et un bon relation client, j&apos;ai
+          rejoint la société Guillemot Corporation afin d&apos;assurer le
+          service clientèle par mail et téléphone, en français et anglais pour
+          les marques Thrustmaster et Hercules.
         </ResumeDescription>
         <ResumeDescription>
           <span className="pt-1">
@@ -37,7 +37,7 @@ const ResumeSection = () => {
           </span>
           Dans le même temps, j&apos;ai continué de pratiquer le développement
           en me concentrant sur les technologies du Web. J&apos;ai notamment
-          découvert la librairie React avec NextJS.
+          découvert la bibliothèque React avec NextJS.
         </ResumeDescription>
         <div className="inline-flex gap-2">
           <Badge>Relation clientèle</Badge>
@@ -59,16 +59,16 @@ const ResumeSection = () => {
           <span className="pt-1">
             <NotesIcon />
           </span>
-          Cette expérience m&apos;a permis de développer mes connaissances au niveau
-          hardware, tout en développant mes compétences en relation clientèle.
+          Cette expérience m&apos;a permis de développer mes connaissances en
+          hardware, tout en développant mes compétences en relation client.
         </ResumeDescription>
         <ResumeDescription>
           <span className="pt-1">
             <PencilIcon />
           </span>
-          J&apos;ai profité de mes connaissances en développement web afin de créer
-          un site interne permettant d&apos;avoir un suivi sur les bons de commande
-          client.
+          J&apos;ai également mis à profit mes compétences en développement web
+          afin de créer un site interne permettant de suivre des bons de
+          commande des clients.
         </ResumeDescription>
         <div className="inline-flex gap-2">
           <Badge>Vente</Badge>
@@ -91,10 +91,10 @@ const ResumeSection = () => {
           <span className="pt-1">
             <NotesIcon />
           </span>
-          Dans le cadre de ma formation, on m&apos;a offert l&apos;opportunité
-          de mettre en pratique mes compétences au cours d&apos;un stage à
-          l&apos;ENSA, l&apos;Ecole Nationale Supérieure d&apos;Architecture de
-          Nantes. J&apos;y ai réalisé une application de prêt de matériel à
+          Dans le cadre de ma formation, j&apos;ai eu l&apos;opportunité de mettre en
+          pratique mes compétences lors d&apos;un stage à l&apos;ENSA,
+          l&apos;École Nationale Supérieure d&apos;Architecture de Nantes.
+          J&apos;y ai développé une application de prêt de matériel à
           destination des étudiants.
         </ResumeDescription>
         <div className="inline-flex gap-2">
@@ -114,8 +114,8 @@ const ResumeSection = () => {
           <span className="pt-1">
             <NotesIcon />
           </span>
-          2 années de formation au sein de l&apos;IUT du Havre qui m&apos;ont
-          permis d&apos;acquérir toutes les compétences de bases afin de
+          Deux années de formation à l&apos;IUT du Havre qui m&apos;ont
+          permis d&apos;acquérir toutes les compétences de base nécessaires pour
           travailler dans le développement informatique.
         </ResumeDescription>
         <div className="inline-flex gap-2">

@@ -17,22 +17,20 @@ const AboutSection = () => {
         <Title className="mb-4">Développeur Web</Title>
 
         <Paragraph className="leading-relaxed text-justify">
-          Je suis un développeur en apprentissage. Diplômé d&apos;un DUT
-          Informatique à l&apos;IUT du Havre, j&apos;y ai appris les bases du
-          développement avec différents langages tels que <Badge>JAVA</Badge>,{" "}
-          <Badge>C</Badge> ou encore le <Badge>SQL</Badge> et{" "}
-          <Badge title="HTML, CSS et Javascript">
-            les différents langages du Web
-          </Badge>
+          Je suis un développeur en apprentissage, titulaire d&apos;un DUT
+          Informatique obtenu à l&apos;IUT du Havre, où j&apos;ai acquis les
+          fondamentaux du développement à travers des langages tels que{" "}
+          <Badge>Java</Badge>, <Badge>C</Badge> ou encore le <Badge>SQL</Badge>{" "}
+          et{" "}
+          <Badge title="HTML, CSS et Javascript">les technologies du web</Badge>
           .
           <br />
-          Par la suite, j&apos;ai continué à me former sur <Badge>
+          Par la suite, j&apos;ai poursuivi ma formation en tant
+          qu&apos;autodidacte, en me spécialisant dans <Badge>
             React
-          </Badge>{" "}
-          et <Badge>NextJS</Badge>{" "}
-          en auto-didacte afin d&apos;en connaître tous les secrets et rouages.
+          </Badge> et <Badge>Next.js</Badge> pour en maîtriser les subtilités.
           <br />
-          Je suis présent sur{" "}
+          Vous pouvez également me retrouver sur{" "}
           <ExternalLink href="https://fr.linkedin.com/in/sebastien-mande">
             <Badge>LinkedIn</Badge>
           </ExternalLink>
